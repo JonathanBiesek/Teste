@@ -1,0 +1,5 @@
+127.0.0.1 - - [10/Dec/2022:10:27:12 -0300] "GET / HTTP/1.1" 200 11433
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:10:27:12 -0300] "GET /Nome/adicionaContatos.html HTTP/1.1" 200 480
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:10:28:06 -0300] "GET /Nome/adicionaContato?nome=Jonathan+Biesek&email=joni.zbrasil%40gmail.com&endereco=marinho+kern&dataNascimento=23%2F10%2F1998 HTTP/1.1" 500 2062
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:10:32:37 -0300] "GET /Nome/adicionaContato?nome=Jonathan+Biesek&email=joni.zbrasil%40gmail.com&endereco=marinho+kern&dataNascimento=23%2F10%2F1998 HTTP/1.1" 200 82
+0:0:0:0:0:0:0:1 - - [10/Dec/2022:10:32:37 -0300] "GET /favicon.ico HTTP/1.1" 304 -
